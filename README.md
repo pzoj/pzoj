@@ -1,5 +1,7 @@
 # PZOJ
 
+This repository has been deprecated in favor of [pzoj-contest](https://github.com/pzoj/pzoj-contest)
+
 online judge + learning platform, all-in-one!!
 
 notes when setting up the judge:
